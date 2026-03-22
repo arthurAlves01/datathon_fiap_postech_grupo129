@@ -208,7 +208,9 @@ Executar localmente
 Grupo 129 — FIAP Postech
 
 -   Arthur Alves
--   (Adicionar integrantes do grupo)
+-   Jackson dos Santos
+-   Luis Henrique
+-   Willian Baldin
 
 ------------------------------------------------------------------------
 
